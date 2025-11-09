@@ -7,4 +7,4 @@ A simple HTML and CSS website created for the Git exercise.
 - CSS
 
 ## How to open the website
-Open `index.html` in your browser.
+[https://eghosaoscar02-cloud.github.io/Exercise_Unit5_website/](https://eghosaoscar02-cloud.github.io/Exercise_Unit5_website/)
